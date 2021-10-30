@@ -1,1 +1,3 @@
 # techlabs-cph-git-demo
+
+This is a simple little project I made to show how git works ...
