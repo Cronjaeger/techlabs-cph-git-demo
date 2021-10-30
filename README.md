@@ -9,3 +9,5 @@ Here is a cool little graphic:
     |   :-)  |
     |        |
      ========
+
+I really love this little graphic!
